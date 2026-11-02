@@ -1,0 +1,4 @@
+target/
+*.class
+.env
+src/main/resources/db.properties
